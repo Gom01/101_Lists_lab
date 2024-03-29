@@ -171,6 +171,7 @@ class LinkedList(var head : Node = null){
   }
 
 
+
 }
 
 object LinkedList extends App {
